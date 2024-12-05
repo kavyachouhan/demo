@@ -1,0 +1,84 @@
+// .card-container {
+//   width: 100%;
+//   padding: 0 16px;
+//   margin-bottom: 10px;
+
+//   @include mobile {
+//     flex-wrap: wrap;
+//     justify-content: center;
+//   }
+// }
+
+// .card-item {
+//   flex: 1 0 calc(25% - 16px);
+//   max-width: 250px;
+//   margin: 0 8px 16px;
+
+//   @include tablet {
+//     flex: 1 0 calc(33.333% - 16px);
+//     max-width: 320px;
+//   }
+
+//   @include desktop {
+//     flex: 1 0 calc(50% - 32px);
+//     max-width: 400px;
+//   }
+
+//   &:nth-child(4n) {
+//     @include mobile {
+//       margin-right: 0;
+//     }
+//   }
+
+//   // Set the height of the video container to a fixed value
+//   .video-container {
+//     height: 150px; /* Adjust this value to reduce the height */
+//     overflow: hidden;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//   }
+
+//   video {
+//     width: 100%;
+//     height: 100%; /* Set to fill the container */
+//     object-fit: cover; /* This will keep the aspect ratio intact while filling the container */
+//     border-radius: 8px;
+//   }
+
+//   .card-content {
+//     background-color: #ffffff;
+//     border-radius: 8px;
+//     padding: 16px;
+//     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+//     @include mobile {
+//       text-align: center;
+//     }
+
+//     h3 {
+//       font-size: 18px;
+//       margin-bottom: 8px;
+//       color: #333;
+
+//       @include mobile {
+//         font-size: 16px;
+//       }
+//     }
+
+//     p {
+//       font-size: 14px;
+//       color: #666;
+//       margin-bottom: 12px;
+//     }
+
+//     img {
+//       width: 100%;
+//       height: auto;
+//       border-radius: 50%;
+//       object-fit: cover;
+//       max-width: 80px;
+//       margin-top: 8px;
+//     }
+//   }
+// }
