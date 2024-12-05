@@ -46,7 +46,7 @@ const data = [
     video:"https://pub-7ef9cd4a2b164f838c4e056cc6eb2f6d.r2.dev/HOME%20Fighting%20(1080X1920).mp4",
     thumbnail: "./assets/Mangalam/UGC-Thumbnail.jpg",
     name: "PHONE SHOT UGC",
-    logo: "/assets/logo/My11.png",
+    logo: "/assets/logo/My112.png",
     brand: "My11Circle",
   },
   {
@@ -55,7 +55,7 @@ const data = [
     video:"https://pub-7ef9cd4a2b164f838c4e056cc6eb2f6d.r2.dev/Home%20Combo%20offer.mp4",
     thumbnail: "./assets/Mangalam/UGC-Thumbnail.jpg",
     name: "PHONE SHOT UGC",
-    logo: "/assets/logo/My11.png",
+    logo: "/assets/logo/My112.png",
     brand: "MANGALAM",
   },
 ];
